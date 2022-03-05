@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://op7788.github.io/gr/</id>
     <title>个人网站</title>
-    <updated>2022-03-05T12:39:17.154Z</updated>
+    <updated>2022-03-05T12:41:38.674Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://op7788.github.io/gr/"/>
     <link rel="self" href="https://op7788.github.io/gr/atom.xml"/>
@@ -10,13 +10,4 @@
     <logo>https://op7788.github.io/gr/images/avatar.png</logo>
     <icon>https://op7788.github.io/gr/favicon.ico</icon>
     <rights>All rights reserved 2022, 个人网站</rights>
-    <entry>
-        <title type="html"><![CDATA[个人频道   ]]></title>
-        <id>https://op7788.github.io/gr/post/ge-ren-pin-dao/</id>
-        <link href="https://op7788.github.io/gr/post/ge-ren-pin-dao/">
-        </link>
-        <updated>2022-03-05T12:12:16.000Z</updated>
-        <content type="html"><![CDATA[<p><a href="https://t.me/grpd1">TG</a></p>
-]]></content>
-    </entry>
 </feed>
