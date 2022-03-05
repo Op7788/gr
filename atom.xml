@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://op7788.github.io/gr/</id>
     <title>个人网站</title>
-    <updated>2022-03-05T13:11:58.040Z</updated>
+    <updated>2022-03-05T13:21:51.792Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://op7788.github.io/gr/"/>
     <link rel="self" href="https://op7788.github.io/gr/atom.xml"/>
@@ -10,4 +10,13 @@
     <logo>https://op7788.github.io/gr/images/avatar.png</logo>
     <icon>https://op7788.github.io/gr/favicon.ico</icon>
     <rights>All rights reserved 2022, 个人网站</rights>
+    <entry>
+        <title type="html"><![CDATA[本站说明]]></title>
+        <id>https://op7788.github.io/gr/post/ben-zhan-shuo-ming/</id>
+        <link href="https://op7788.github.io/gr/post/ben-zhan-shuo-ming/">
+        </link>
+        <updated>2022-03-05T13:17:26.000Z</updated>
+        <content type="html"><![CDATA[<p><u>本站由个人开发由个人维护</u></p>
+]]></content>
+    </entry>
 </feed>
