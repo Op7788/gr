@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://op7788.github.io/gr/</id>
     <title>个人网站</title>
-    <updated>2022-03-12T08:07:19.515Z</updated>
+    <updated>2022-03-20T06:31:15.737Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://op7788.github.io/gr/"/>
     <link rel="self" href="https://op7788.github.io/gr/atom.xml"/>
@@ -18,6 +18,7 @@
         <updated>2022-03-05T13:17:26.000Z</updated>
         <content type="html"><![CDATA[<p><u>本站由个人开发由个人维护</u><br>
 本站只发布帖子</p>
+<figure data-type="image" tabindex="1"><img src="https://obohe.com/i/2022/03/20/20220305_174114_0000.png" alt="😁" loading="lazy"></figure>
 ]]></content>
     </entry>
 </feed>
